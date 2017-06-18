@@ -1,0 +1,16 @@
+Package: io.github.agentepsilon.hidedocklabels10
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: AgentEpsilon
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/io.github.agentepsilon.hidedocklabels10_0.0.1-7+debug_iphoneos-arm.deb
+Size: 3498
+MD5sum: a5f7cdcc3ff18c896fc1535fd08035d5
+SHA1: 99e6cced5af66dfb99d26066d376dc08fa749f5d
+SHA256: 7c017e77eb8193d4e4d879b0d33bef4a618375f52a03e769b6c02c150d865337
+Section: Tweaks
+Description: Hide Dock Icon Labels on iOS 10
+Author: AgentEpsilon
+Name: HideDockLabels10
+
