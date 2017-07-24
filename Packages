@@ -14,3 +14,19 @@ Description: Hide Dock Icon Labels on iOS 10
 Author: AgentEpsilon
 Name: HideDockLabels10
 
+Package: io.github.agentepsilon.hidemessageextras10
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Evan Miller
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/io.github.agentepsilon.hidemessageextras10_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3202
+MD5sum: 631a00c0e31336c744a5e1bd4757b24e
+SHA1: aada542b55ee38ec87e46206f40e95ce74729c98
+SHA256: dc784836c64b821388e801438fbb2b323ab1f2c221d37177503e453f974d15be
+Section: Tweaks
+Description: Hide the "Heartbeat" and "Sticker" buttons in the Messages app.
+Author: Evan Miller
+Name: HideMessageExtras10
+
