@@ -15,16 +15,16 @@ Author: AgentEpsilon
 Name: HideDockLabels10
 
 Package: io.github.agentepsilon.hidemessageextras10
-Version: 0.0.1-2+debug
+Version: 0.0.1-3+debug
 Architecture: iphoneos-arm
 Maintainer: Evan Miller
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: Files/io.github.agentepsilon.hidemessageextras10_0.0.1-2+debug_iphoneos-arm.deb
-Size: 3202
-MD5sum: 631a00c0e31336c744a5e1bd4757b24e
-SHA1: aada542b55ee38ec87e46206f40e95ce74729c98
-SHA256: dc784836c64b821388e801438fbb2b323ab1f2c221d37177503e453f974d15be
+Filename: Files/io.github.agentepsilon.hidemessageextras10_0.0.1-3+debug_iphoneos-arm.deb
+Size: 3208
+MD5sum: 157f4dcb0527cd83b8313b33d23d75d4
+SHA1: e7950705971f883583469603eedfaba855974e1a
+SHA256: 08f553222e7d1282c7c2a43ea28b3cd6d0ed67705c5f37cc5bb2cb741d024aba
 Section: Tweaks
 Description: Hide the "Heartbeat" and "Sticker" buttons in the Messages app.
 Author: Evan Miller
